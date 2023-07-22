@@ -75,6 +75,8 @@ I want to use my skills as a developer to help contribute towards addressing sys
 ##  🌊 Express Yourself
 - [🎶 My Music Taste](https://open.spotify.com/playlist/4ddHNzR8XVsMlhCETA6MZh?si=38c659da1e3f4c99)
   - Can only be described as ADHD in audio form. Put it on random and maybe you'll find something you like!
+- [🎶 My Spotify Discover Weekly](https://open.spotify.com/playlist/37i9dQZEVXcHHuYYuRz9US?si=2a79301fdb824395)
+  - This might give you a better idea of what I've been listening to more recently
 - [🎨 My Artwork / Instagram](https://www.instagram.com/k.m__art/)
   - I like to make abstract paintings & illustrations from time to time
 - [🐸 My Taste in Memes](https://www.youtube.com/watch?v=q6EoRBvdVPQ&list=PLXKAG8g1Ls_Ax-SU7rCgyiGWjylB5NHL-)
